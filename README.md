@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @koomos
-- 👀 I’m interested in crypto currency and blockchain development
-- 🌱 I’m currently learning python/solidity
-- 💞️ I’m looking to collaborate on any crypto project
+- 👋 Hi, I’m Khadar 
+- 👀 I’m interested in data science and blockchain development
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me: Add me on discord Koomos#3997
 
 <!---
